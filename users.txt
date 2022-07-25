@@ -50,6 +50,7 @@ office
 qwerty
 root
 scanadmin
+scanner
 sccm
 securenvoy
 serviceadmin
